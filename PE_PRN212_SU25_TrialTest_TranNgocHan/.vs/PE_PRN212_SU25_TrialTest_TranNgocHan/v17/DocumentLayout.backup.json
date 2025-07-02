@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\PRN211\\PE_PRN212_SU25_TrialTest_TranNgocHan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60B67ED0-E14C-4FBE-9EFE-A1A7901F902A}|ResearchProjectManagement_SE180242\\ResearchProjectManagement_SE180242.csproj|c:\\users\\admin\\downloads\\prn211\\pe_prn212_su25_trialtest_tranngochan\\researchprojectmanagement_se180242\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60B67ED0-E14C-4FBE-9EFE-A1A7901F902A}|ResearchProjectManagement_SE180242\\ResearchProjectManagement_SE180242.csproj|solutionrelative:researchprojectmanagement_se180242\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27113174-9A01-4601-8B11-EE612C25207B}|ResearchProjectManagement_SE180242_DAL\\ResearchProjectManagement_SE180242_DAL.csproj|c:\\users\\admin\\downloads\\prn211\\pe_prn212_su25_trialtest_tranngochan\\researchprojectmanagement_se180242_dal\\repositories\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27113174-9A01-4601-8B11-EE612C25207B}|ResearchProjectManagement_SE180242_DAL\\ResearchProjectManagement_SE180242_DAL.csproj|solutionrelative:researchprojectmanagement_se180242_dal\\repositories\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27113174-9A01-4601-8B11-EE612C25207B}|ResearchProjectManagement_SE180242_DAL\\ResearchProjectManagement_SE180242_DAL.csproj|c:\\users\\admin\\downloads\\prn211\\pe_prn212_su25_trialtest_tranngochan\\researchprojectmanagement_se180242_dal\\entity\\su25researchdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27113174-9A01-4601-8B11-EE612C25207B}|ResearchProjectManagement_SE180242_DAL\\ResearchProjectManagement_SE180242_DAL.csproj|solutionrelative:researchprojectmanagement_se180242_dal\\entity\\su25researchdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B67ED0-E14C-4FBE-9EFE-A1A7901F902A}|ResearchProjectManagement_SE180242\\ResearchProjectManagement_SE180242.csproj|c:\\users\\admin\\downloads\\prn211\\pe_prn212_su25_trialtest_tranngochan\\researchprojectmanagement_se180242\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B67ED0-E14C-4FBE-9EFE-A1A7901F902A}|ResearchProjectManagement_SE180242\\ResearchProjectManagement_SE180242.csproj|solutionrelative:researchprojectmanagement_se180242\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B67ED0-E14C-4FBE-9EFE-A1A7901F902A}|ResearchProjectManagement_SE180242\\ResearchProjectManagement_SE180242.csproj|c:\\users\\admin\\downloads\\prn211\\pe_prn212_su25_trialtest_tranngochan\\researchprojectmanagement_se180242\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{60B67ED0-E14C-4FBE-9EFE-A1A7901F902A}|ResearchProjectManagement_SE180242\\ResearchProjectManagement_SE180242.csproj|solutionrelative:researchprojectmanagement_se180242\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D3F86E-D4E9-486F-9026-365992920CA0}|ResearchProjectManagement_BLL\\ResearchProjectManagement_BLL.csproj|c:\\users\\admin\\downloads\\prn211\\pe_prn212_su25_trialtest_tranngochan\\researchprojectmanagement_bll\\service\\useraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D3F86E-D4E9-486F-9026-365992920CA0}|ResearchProjectManagement_BLL\\ResearchProjectManagement_BLL.csproj|solutionrelative:researchprojectmanagement_bll\\service\\useraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27113174-9A01-4601-8B11-EE612C25207B}|ResearchProjectManagement_SE180242_DAL\\ResearchProjectManagement_SE180242_DAL.csproj|c:\\users\\admin\\downloads\\prn211\\pe_prn212_su25_trialtest_tranngochan\\researchprojectmanagement_se180242_dal\\entity\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27113174-9A01-4601-8B11-EE612C25207B}|ResearchProjectManagement_SE180242_DAL\\ResearchProjectManagement_SE180242_DAL.csproj|solutionrelative:researchprojectmanagement_se180242_dal\\entity\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B67ED0-E14C-4FBE-9EFE-A1A7901F902A}|ResearchProjectManagement_SE180242\\ResearchProjectManagement_SE180242.csproj|c:\\users\\admin\\downloads\\prn211\\pe_prn212_su25_trialtest_tranngochan\\researchprojectmanagement_se180242\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{60B67ED0-E14C-4FBE-9EFE-A1A7901F902A}|ResearchProjectManagement_SE180242\\ResearchProjectManagement_SE180242.csproj|solutionrelative:researchprojectmanagement_se180242\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B67ED0-E14C-4FBE-9EFE-A1A7901F902A}|ResearchProjectManagement_SE180242\\ResearchProjectManagement_SE180242.csproj|c:\\users\\admin\\downloads\\prn211\\pe_prn212_su25_trialtest_tranngochan\\researchprojectmanagement_se180242\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{60B67ED0-E14C-4FBE-9EFE-A1A7901F902A}|ResearchProjectManagement_SE180242\\ResearchProjectManagement_SE180242.csproj|solutionrelative:researchprojectmanagement_se180242\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B67ED0-E14C-4FBE-9EFE-A1A7901F902A}|ResearchProjectManagement_SE180242\\ResearchProjectManagement_SE180242.csproj|c:\\users\\admin\\downloads\\prn211\\pe_prn212_su25_trialtest_tranngochan\\researchprojectmanagement_se180242\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B67ED0-E14C-4FBE-9EFE-A1A7901F902A}|ResearchProjectManagement_SE180242\\ResearchProjectManagement_SE180242.csproj|solutionrelative:researchprojectmanagement_se180242\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27113174-9A01-4601-8B11-EE612C25207B}|ResearchProjectManagement_SE180242_DAL\\ResearchProjectManagement_SE180242_DAL.csproj|c:\\users\\admin\\downloads\\prn211\\pe_prn212_su25_trialtest_tranngochan\\researchprojectmanagement_se180242_dal\\repositories\\researcherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27113174-9A01-4601-8B11-EE612C25207B}|ResearchProjectManagement_SE180242_DAL\\ResearchProjectManagement_SE180242_DAL.csproj|solutionrelative:researchprojectmanagement_se180242_dal\\repositories\\researcherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27113174-9A01-4601-8B11-EE612C25207B}|ResearchProjectManagement_SE180242_DAL\\ResearchProjectManagement_SE180242_DAL.csproj|c:\\users\\admin\\downloads\\prn211\\pe_prn212_su25_trialtest_tranngochan\\researchprojectmanagement_se180242_dal\\repositories\\researchprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27113174-9A01-4601-8B11-EE612C25207B}|ResearchProjectManagement_SE180242_DAL\\ResearchProjectManagement_SE180242_DAL.csproj|solutionrelative:researchprojectmanagement_se180242_dal\\repositories\\researchprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D3F86E-D4E9-486F-9026-365992920CA0}|ResearchProjectManagement_BLL\\ResearchProjectManagement_BLL.csproj|c:\\users\\admin\\downloads\\prn211\\pe_prn212_su25_trialtest_tranngochan\\researchprojectmanagement_bll\\service\\researchprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D3F86E-D4E9-486F-9026-365992920CA0}|ResearchProjectManagement_BLL\\ResearchProjectManagement_BLL.csproj|solutionrelative:researchprojectmanagement_bll\\service\\researchprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D3F86E-D4E9-486F-9026-365992920CA0}|ResearchProjectManagement_BLL\\ResearchProjectManagement_BLL.csproj|c:\\users\\admin\\downloads\\prn211\\pe_prn212_su25_trialtest_tranngochan\\researchprojectmanagement_bll\\service\\researcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D3F86E-D4E9-486F-9026-365992920CA0}|ResearchProjectManagement_BLL\\ResearchProjectManagement_BLL.csproj|solutionrelative:researchprojectmanagement_bll\\service\\researcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27113174-9A01-4601-8B11-EE612C25207B}|ResearchProjectManagement_SE180242_DAL\\ResearchProjectManagement_SE180242_DAL.csproj|c:\\users\\admin\\downloads\\prn211\\pe_prn212_su25_trialtest_tranngochan\\researchprojectmanagement_se180242_dal\\researchprojectmanagement_se180242_dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{27113174-9A01-4601-8B11-EE612C25207B}|ResearchProjectManagement_SE180242_DAL\\ResearchProjectManagement_SE180242_DAL.csproj|solutionrelative:researchprojectmanagement_se180242_dal\\researchprojectmanagement_se180242_dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B67ED0-E14C-4FBE-9EFE-A1A7901F902A}|ResearchProjectManagement_SE180242\\ResearchProjectManagement_SE180242.csproj|c:\\users\\admin\\downloads\\prn211\\pe_prn212_su25_trialtest_tranngochan\\researchprojectmanagement_se180242\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B67ED0-E14C-4FBE-9EFE-A1A7901F902A}|ResearchProjectManagement_SE180242\\ResearchProjectManagement_SE180242.csproj|solutionrelative:researchprojectmanagement_se180242\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PRN211\\PE_PRN212_SU25_TrialTest_TranNgocHan\\ResearchProjectManagement_SE180242\\appsettings.json",
+              "RelativeDocumentMoniker": "ResearchProjectManagement_SE180242\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PRN211\\PE_PRN212_SU25_TrialTest_TranNgocHan\\ResearchProjectManagement_SE180242\\appsettings.json",
+              "RelativeToolTip": "ResearchProjectManagement_SE180242\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-02T07:25:12.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PRN211\\PE_PRN212_SU25_TrialTest_TranNgocHan\\ResearchProjectManagement_BLL\\Service\\UserAccountService.cs",
+              "RelativeDocumentMoniker": "ResearchProjectManagement_BLL\\Service\\UserAccountService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PRN211\\PE_PRN212_SU25_TrialTest_TranNgocHan\\ResearchProjectManagement_BLL\\Service\\UserAccountService.cs",
+              "RelativeToolTip": "ResearchProjectManagement_BLL\\Service\\UserAccountService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:26:02.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PRN211\\PE_PRN212_SU25_TrialTest_TranNgocHan\\ResearchProjectManagement_SE180242\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ResearchProjectManagement_SE180242\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PRN211\\PE_PRN212_SU25_TrialTest_TranNgocHan\\ResearchProjectManagement_SE180242\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "ResearchProjectManagement_SE180242\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:18:07.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PRN211\\PE_PRN212_SU25_TrialTest_TranNgocHan\\ResearchProjectManagement_SE180242\\App.xaml",
+              "RelativeDocumentMoniker": "ResearchProjectManagement_SE180242\\App.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PRN211\\PE_PRN212_SU25_TrialTest_TranNgocHan\\ResearchProjectManagement_SE180242\\App.xaml",
+              "RelativeToolTip": "ResearchProjectManagement_SE180242\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-02T06:20:27.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PRN211\\PE_PRN212_SU25_TrialTest_TranNgocHan\\ResearchProjectManagement_SE180242_DAL\\Repositories\\UserAccountRepository.cs",
+              "RelativeDocumentMoniker": "ResearchProjectManagement_SE180242_DAL\\Repositories\\UserAccountRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PRN211\\PE_PRN212_SU25_TrialTest_TranNgocHan\\ResearchProjectManagement_SE180242_DAL\\Repositories\\UserAccountRepository.cs",
+              "RelativeToolTip": "ResearchProjectManagement_SE180242_DAL\\Repositories\\UserAccountRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:33:06.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PRN211\\PE_PRN212_SU25_TrialTest_TranNgocHan\\ResearchProjectManagement_SE180242\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ResearchProjectManagement_SE180242\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PRN211\\PE_PRN212_SU25_TrialTest_TranNgocHan\\ResearchProjectManagement_SE180242\\MainWindow.xaml",
+              "RelativeToolTip": "ResearchProjectManagement_SE180242\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-02T06:04:18.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PRN211\\PE_PRN212_SU25_TrialTest_TranNgocHan\\ResearchProjectManagement_SE180242_DAL\\Entity\\UserAccount.cs",
+              "RelativeDocumentMoniker": "ResearchProjectManagement_SE180242_DAL\\Entity\\UserAccount.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PRN211\\PE_PRN212_SU25_TrialTest_TranNgocHan\\ResearchProjectManagement_SE180242_DAL\\Entity\\UserAccount.cs",
+              "RelativeToolTip": "ResearchProjectManagement_SE180242_DAL\\Entity\\UserAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:39:43.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Su25researchDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PRN211\\PE_PRN212_SU25_TrialTest_TranNgocHan\\ResearchProjectManagement_SE180242_DAL\\Entity\\Su25researchDbContext.cs",
+              "RelativeDocumentMoniker": "ResearchProjectManagement_SE180242_DAL\\Entity\\Su25researchDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PRN211\\PE_PRN212_SU25_TrialTest_TranNgocHan\\ResearchProjectManagement_SE180242_DAL\\Entity\\Su25researchDbContext.cs",
+              "RelativeToolTip": "ResearchProjectManagement_SE180242_DAL\\Entity\\Su25researchDbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:28:21.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PRN211\\PE_PRN212_SU25_TrialTest_TranNgocHan\\ResearchProjectManagement_SE180242\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "ResearchProjectManagement_SE180242\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PRN211\\PE_PRN212_SU25_TrialTest_TranNgocHan\\ResearchProjectManagement_SE180242\\LoginWindow.xaml",
+              "RelativeToolTip": "ResearchProjectManagement_SE180242\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-02T06:16:01.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PRN211\\PE_PRN212_SU25_TrialTest_TranNgocHan\\ResearchProjectManagement_SE180242\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ResearchProjectManagement_SE180242\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PRN211\\PE_PRN212_SU25_TrialTest_TranNgocHan\\ResearchProjectManagement_SE180242\\AssemblyInfo.cs",
+              "RelativeToolTip": "ResearchProjectManagement_SE180242\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:59:12.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResearcherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PRN211\\PE_PRN212_SU25_TrialTest_TranNgocHan\\ResearchProjectManagement_SE180242_DAL\\Repositories\\ResearcherRepository.cs",
+              "RelativeDocumentMoniker": "ResearchProjectManagement_SE180242_DAL\\Repositories\\ResearcherRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PRN211\\PE_PRN212_SU25_TrialTest_TranNgocHan\\ResearchProjectManagement_SE180242_DAL\\Repositories\\ResearcherRepository.cs",
+              "RelativeToolTip": "ResearchProjectManagement_SE180242_DAL\\Repositories\\ResearcherRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:35:48.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResearchProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PRN211\\PE_PRN212_SU25_TrialTest_TranNgocHan\\ResearchProjectManagement_SE180242_DAL\\Repositories\\ResearchProjectRepository.cs",
+              "RelativeDocumentMoniker": "ResearchProjectManagement_SE180242_DAL\\Repositories\\ResearchProjectRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PRN211\\PE_PRN212_SU25_TrialTest_TranNgocHan\\ResearchProjectManagement_SE180242_DAL\\Repositories\\ResearchProjectRepository.cs",
+              "RelativeToolTip": "ResearchProjectManagement_SE180242_DAL\\Repositories\\ResearchProjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:36:11.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResearchProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PRN211\\PE_PRN212_SU25_TrialTest_TranNgocHan\\ResearchProjectManagement_BLL\\Service\\ResearchProjectService.cs",
+              "RelativeDocumentMoniker": "ResearchProjectManagement_BLL\\Service\\ResearchProjectService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PRN211\\PE_PRN212_SU25_TrialTest_TranNgocHan\\ResearchProjectManagement_BLL\\Service\\ResearchProjectService.cs",
+              "RelativeToolTip": "ResearchProjectManagement_BLL\\Service\\ResearchProjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:25:39.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResearcherService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PRN211\\PE_PRN212_SU25_TrialTest_TranNgocHan\\ResearchProjectManagement_BLL\\Service\\ResearcherService.cs",
+              "RelativeDocumentMoniker": "ResearchProjectManagement_BLL\\Service\\ResearcherService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PRN211\\PE_PRN212_SU25_TrialTest_TranNgocHan\\ResearchProjectManagement_BLL\\Service\\ResearcherService.cs",
+              "RelativeToolTip": "ResearchProjectManagement_BLL\\Service\\ResearcherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:25:16.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResearchProjectManagement_SE180242_DAL",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PRN211\\PE_PRN212_SU25_TrialTest_TranNgocHan\\ResearchProjectManagement_SE180242_DAL\\ResearchProjectManagement_SE180242_DAL.csproj",
+              "RelativeDocumentMoniker": "ResearchProjectManagement_SE180242_DAL\\ResearchProjectManagement_SE180242_DAL.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PRN211\\PE_PRN212_SU25_TrialTest_TranNgocHan\\ResearchProjectManagement_SE180242_DAL\\ResearchProjectManagement_SE180242_DAL.csproj",
+              "RelativeToolTip": "ResearchProjectManagement_SE180242_DAL\\ResearchProjectManagement_SE180242_DAL.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-02T06:13:03.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PRN211\\PE_PRN212_SU25_TrialTest_TranNgocHan\\ResearchProjectManagement_SE180242\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ResearchProjectManagement_SE180242\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PRN211\\PE_PRN212_SU25_TrialTest_TranNgocHan\\ResearchProjectManagement_SE180242\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ResearchProjectManagement_SE180242\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:04:18.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

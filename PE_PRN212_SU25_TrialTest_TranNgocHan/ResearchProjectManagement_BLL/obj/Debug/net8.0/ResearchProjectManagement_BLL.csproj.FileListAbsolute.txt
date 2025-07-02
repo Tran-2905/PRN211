@@ -1,0 +1,15 @@
+C:\Users\Admin\Downloads\PRN211\PE_PRN212_SU25_TrialTest_TranNgocHan\ResearchProjectManagement_BLL\bin\Debug\net8.0\ResearchProjectManagement_BLL.deps.json
+C:\Users\Admin\Downloads\PRN211\PE_PRN212_SU25_TrialTest_TranNgocHan\ResearchProjectManagement_BLL\bin\Debug\net8.0\ResearchProjectManagement_BLL.dll
+C:\Users\Admin\Downloads\PRN211\PE_PRN212_SU25_TrialTest_TranNgocHan\ResearchProjectManagement_BLL\bin\Debug\net8.0\ResearchProjectManagement_BLL.pdb
+C:\Users\Admin\Downloads\PRN211\PE_PRN212_SU25_TrialTest_TranNgocHan\ResearchProjectManagement_BLL\bin\Debug\net8.0\ResearchProjectManagement_SE180242_DAL.dll
+C:\Users\Admin\Downloads\PRN211\PE_PRN212_SU25_TrialTest_TranNgocHan\ResearchProjectManagement_BLL\bin\Debug\net8.0\ResearchProjectManagement_SE180242_DAL.pdb
+C:\Users\Admin\Downloads\PRN211\PE_PRN212_SU25_TrialTest_TranNgocHan\ResearchProjectManagement_BLL\obj\Debug\net8.0\ResearchProjectManagement_BLL.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\PRN211\PE_PRN212_SU25_TrialTest_TranNgocHan\ResearchProjectManagement_BLL\obj\Debug\net8.0\ResearchProjectManagement_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\PRN211\PE_PRN212_SU25_TrialTest_TranNgocHan\ResearchProjectManagement_BLL\obj\Debug\net8.0\ResearchProjectManagement_BLL.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\PRN211\PE_PRN212_SU25_TrialTest_TranNgocHan\ResearchProjectManagement_BLL\obj\Debug\net8.0\ResearchProjectManagement_BLL.AssemblyInfo.cs
+C:\Users\Admin\Downloads\PRN211\PE_PRN212_SU25_TrialTest_TranNgocHan\ResearchProjectManagement_BLL\obj\Debug\net8.0\ResearchProjectManagement_BLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\PRN211\PE_PRN212_SU25_TrialTest_TranNgocHan\ResearchProjectManagement_BLL\obj\Debug\net8.0\Research.570F17AC.Up2Date
+C:\Users\Admin\Downloads\PRN211\PE_PRN212_SU25_TrialTest_TranNgocHan\ResearchProjectManagement_BLL\obj\Debug\net8.0\ResearchProjectManagement_BLL.dll
+C:\Users\Admin\Downloads\PRN211\PE_PRN212_SU25_TrialTest_TranNgocHan\ResearchProjectManagement_BLL\obj\Debug\net8.0\refint\ResearchProjectManagement_BLL.dll
+C:\Users\Admin\Downloads\PRN211\PE_PRN212_SU25_TrialTest_TranNgocHan\ResearchProjectManagement_BLL\obj\Debug\net8.0\ResearchProjectManagement_BLL.pdb
+C:\Users\Admin\Downloads\PRN211\PE_PRN212_SU25_TrialTest_TranNgocHan\ResearchProjectManagement_BLL\obj\Debug\net8.0\ref\ResearchProjectManagement_BLL.dll
