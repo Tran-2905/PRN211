@@ -1,0 +1,290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9065D002-1F5C-46DA-86BC-17E1991BD34C}|TranNgocHan\\TranNgocHan.csproj|c:\\users\\admin\\downloads\\prn211\\tranngochan\\tranngochan\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9065D002-1F5C-46DA-86BC-17E1991BD34C}|TranNgocHan\\TranNgocHan.csproj|solutionrelative:tranngochan\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9065D002-1F5C-46DA-86BC-17E1991BD34C}|TranNgocHan\\TranNgocHan.csproj|c:\\users\\admin\\downloads\\prn211\\tranngochan\\tranngochan\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9065D002-1F5C-46DA-86BC-17E1991BD34C}|TranNgocHan\\TranNgocHan.csproj|solutionrelative:tranngochan\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9065D002-1F5C-46DA-86BC-17E1991BD34C}|TranNgocHan\\TranNgocHan.csproj|c:\\users\\admin\\downloads\\prn211\\tranngochan\\tranngochan\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9065D002-1F5C-46DA-86BC-17E1991BD34C}|TranNgocHan\\TranNgocHan.csproj|solutionrelative:tranngochan\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9065D002-1F5C-46DA-86BC-17E1991BD34C}|TranNgocHan\\TranNgocHan.csproj|c:\\users\\admin\\downloads\\prn211\\tranngochan\\tranngochan\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9065D002-1F5C-46DA-86BC-17E1991BD34C}|TranNgocHan\\TranNgocHan.csproj|solutionrelative:tranngochan\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D980AC-D0AF-4C03-BDC8-10CEDEA31402}|DAL\\DAL.csproj|c:\\users\\admin\\downloads\\prn211\\tranngochan\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D5D980AC-D0AF-4C03-BDC8-10CEDEA31402}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9065D002-1F5C-46DA-86BC-17E1991BD34C}|TranNgocHan\\TranNgocHan.csproj|c:\\users\\admin\\downloads\\prn211\\tranngochan\\tranngochan\\editwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9065D002-1F5C-46DA-86BC-17E1991BD34C}|TranNgocHan\\TranNgocHan.csproj|solutionrelative:tranngochan\\editwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D980AC-D0AF-4C03-BDC8-10CEDEA31402}|DAL\\DAL.csproj|c:\\users\\admin\\downloads\\prn211\\tranngochan\\dal\\entities\\researchproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D980AC-D0AF-4C03-BDC8-10CEDEA31402}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\researchproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23FD8F1-C950-43DD-9611-97D2B5F3A7A5}|BLL\\BLL.csproj|c:\\users\\admin\\downloads\\prn211\\tranngochan\\bll\\services\\useraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23FD8F1-C950-43DD-9611-97D2B5F3A7A5}|BLL\\BLL.csproj|solutionrelative:bll\\services\\useraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23FD8F1-C950-43DD-9611-97D2B5F3A7A5}|BLL\\BLL.csproj|c:\\users\\admin\\downloads\\prn211\\tranngochan\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23FD8F1-C950-43DD-9611-97D2B5F3A7A5}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23FD8F1-C950-43DD-9611-97D2B5F3A7A5}|BLL\\BLL.csproj|c:\\users\\admin\\downloads\\prn211\\tranngochan\\bll\\services\\researchprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23FD8F1-C950-43DD-9611-97D2B5F3A7A5}|BLL\\BLL.csproj|solutionrelative:bll\\services\\researchprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23FD8F1-C950-43DD-9611-97D2B5F3A7A5}|BLL\\BLL.csproj|c:\\users\\admin\\downloads\\prn211\\tranngochan\\bll\\services\\researcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23FD8F1-C950-43DD-9611-97D2B5F3A7A5}|BLL\\BLL.csproj|solutionrelative:bll\\services\\researcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D980AC-D0AF-4C03-BDC8-10CEDEA31402}|DAL\\DAL.csproj|c:\\users\\admin\\downloads\\prn211\\tranngochan\\dal\\repositories\\researchprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D980AC-D0AF-4C03-BDC8-10CEDEA31402}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\researchprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D980AC-D0AF-4C03-BDC8-10CEDEA31402}|DAL\\DAL.csproj|c:\\users\\admin\\downloads\\prn211\\tranngochan\\dal\\repositories\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D980AC-D0AF-4C03-BDC8-10CEDEA31402}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9065D002-1F5C-46DA-86BC-17E1991BD34C}|TranNgocHan\\TranNgocHan.csproj|c:\\users\\admin\\downloads\\prn211\\tranngochan\\tranngochan\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9065D002-1F5C-46DA-86BC-17E1991BD34C}|TranNgocHan\\TranNgocHan.csproj|solutionrelative:tranngochan\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D980AC-D0AF-4C03-BDC8-10CEDEA31402}|DAL\\DAL.csproj|c:\\users\\admin\\downloads\\prn211\\tranngochan\\dal\\entities\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D980AC-D0AF-4C03-BDC8-10CEDEA31402}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D980AC-D0AF-4C03-BDC8-10CEDEA31402}|DAL\\DAL.csproj|c:\\users\\admin\\downloads\\prn211\\tranngochan\\dal\\repositories\\researcherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D980AC-D0AF-4C03-BDC8-10CEDEA31402}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\researcherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D980AC-D0AF-4C03-BDC8-10CEDEA31402}|DAL\\DAL.csproj|c:\\users\\admin\\downloads\\prn211\\tranngochan\\dal\\entities\\su25researchdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D980AC-D0AF-4C03-BDC8-10CEDEA31402}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\su25researchdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-15T10:10:57.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\TranNgocHan\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TranNgocHan\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\TranNgocHan\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "TranNgocHan\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwC0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T10:06:07.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\TranNgocHan\\EditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TranNgocHan\\EditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\TranNgocHan\\EditWindow.xaml.cs",
+              "RelativeToolTip": "TranNgocHan\\EditWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T10:06:05.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResearchProject.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\DAL\\Entities\\ResearchProject.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\ResearchProject.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\DAL\\Entities\\ResearchProject.cs",
+              "RelativeToolTip": "DAL\\Entities\\ResearchProject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T10:06:00.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T10:05:56.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\TranNgocHan\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TranNgocHan\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\TranNgocHan\\MainWindow.xaml",
+              "RelativeToolTip": "TranNgocHan\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-13T15:47:21.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\TranNgocHan\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TranNgocHan\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\TranNgocHan\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TranNgocHan\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAgwGIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T15:06:43.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\TranNgocHan\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "TranNgocHan\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\TranNgocHan\\LoginWindow.xaml",
+              "RelativeToolTip": "TranNgocHan\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-15T10:11:20.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\TranNgocHan\\App.xaml",
+              "RelativeDocumentMoniker": "TranNgocHan\\App.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\TranNgocHan\\App.xaml",
+              "RelativeToolTip": "TranNgocHan\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-15T10:12:23.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\BLL\\Services\\UserAccountService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\UserAccountService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\BLL\\Services\\UserAccountService.cs",
+              "RelativeToolTip": "BLL\\Services\\UserAccountService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:51:38.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResearchProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\BLL\\Services\\ResearchProjectService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ResearchProjectService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\BLL\\Services\\ResearchProjectService.cs",
+              "RelativeToolTip": "BLL\\Services\\ResearchProjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T14:58:39.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResearcherService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\BLL\\Services\\ResearcherService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ResearcherService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\BLL\\Services\\ResearcherService.cs",
+              "RelativeToolTip": "BLL\\Services\\ResearcherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:54:28.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResearchProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\DAL\\Repositories\\ResearchProjectRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\ResearchProjectRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\DAL\\Repositories\\ResearchProjectRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\ResearchProjectRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T14:58:41.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\DAL\\Repositories\\UserAccountRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\UserAccountRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\DAL\\Repositories\\UserAccountRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\UserAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:48:39.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResearcherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\DAL\\Repositories\\ResearcherRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\ResearcherRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\DAL\\Repositories\\ResearcherRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\ResearcherRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:49:19.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\DAL\\Entities\\UserAccount.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\UserAccount.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\DAL\\Entities\\UserAccount.cs",
+              "RelativeToolTip": "DAL\\Entities\\UserAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:50:36.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Su25researchDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\DAL\\Entities\\Su25researchDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Su25researchDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PRN211\\TranNgocHan\\DAL\\Entities\\Su25researchDbContext.cs",
+              "RelativeToolTip": "DAL\\Entities\\Su25researchDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T14:58:37.802Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
